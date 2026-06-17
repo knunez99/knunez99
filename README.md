@@ -4,7 +4,7 @@ My name is Kristian, I have a Masters in Business Analytics and a Bachelors in E
 
 I am profiecient in tools such as Pyhton, R, SQL, PowerBI and LaTeX.
 
-- 🔭 I’m currently working on other projects. Right now it is an MCO Airport Tourism Dashboard. The goal is to show pre-pandemic baseline, COVID crash, recovery and record breaking growth story.
+- 🔭 I’m currently working on other projects. Right now it is an MCO Airport Tourism Dashboard. The goal is to show a pre-pandemic baseline, COVID crash, recovery and  a record breaking growth story.
 - 🌱 I’m currently learning how to fly using interactive flight simulators. 
 - 👯 I’m looking to collaborate on anything that I could possibly help with.
 - 🤔 I’m looking for help with finding a job I am passionate about!
